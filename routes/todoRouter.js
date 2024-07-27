@@ -1,10 +1,10 @@
 /*
   To-Do Routes:
-    [GET] /todos     => Fetch all to-do items.
-    [GET] /todos/:id => Fetch one to-do item with this id.
-    [POST] /todos    => Add a new to-do item.
-    [PUT] /todos     => Update an existing to-do item.
-    [DELETE] /todos  => Delete a to-do item.
+    [GET]    /todos      => Fetch all to-do items.
+    [GET]    /todos/:id  => Fetch one to-do item with this id.
+    [POST]   /todos      => Add a new to-do item.
+    [PUT]    /todos      => Update an existing to-do item.
+    [DELETE] /todos      => Delete a to-do item.
 */
 
 // Import express and create a router
